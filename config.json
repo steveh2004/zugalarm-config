@@ -1,5 +1,10 @@
 {
-  "verbindungen": [],
+  "verbindungen": [
+    {
+      "von": "Reutlingen",
+      "nach": "Oldenburg"
+    }
+  ],
   "preiseinstellungen": {
     "max_preis_euro": 85,
     "klasse": "2",
@@ -22,7 +27,7 @@
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-24T22:30:53.778Z",
+    "aktualisiert_am": "2026-06-24T23:15:06.992Z",
     "version": "1.0"
   }
 }
