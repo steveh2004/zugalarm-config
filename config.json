@@ -1,12 +1,7 @@
 {
-  "verbindungen": [
-    {
-      "von": "sdvf",
-      "nach": "ssefw"
-    }
-  ],
+  "verbindungen": [],
   "preiseinstellungen": {
-    "max_preis_euro": 30,
+    "max_preis_euro": 85,
     "klasse": "2",
     "ticket_typ": "sparpreis"
   },
@@ -27,7 +22,7 @@
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-24T19:15:31.451Z",
+    "aktualisiert_am": "2026-06-24T22:30:53.778Z",
     "version": "1.0"
   }
 }
