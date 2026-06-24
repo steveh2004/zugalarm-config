@@ -1,8 +1,13 @@
 {
   "verbindungen": [
     {
-      "von": "Reutlingen",
-      "nach": "Oldenburg"
+      "von": "reutlingen",
+      "nach": "oldenburg",
+      "datum_von": "2026-06-24",
+      "datum_bis": "2026-07-22",
+      "abfahrt_fruehestens": "06:00",
+      "abfahrt_spaetestens": "22:00",
+      "max_umstiege": 1
     }
   ],
   "preiseinstellungen": {
@@ -10,24 +15,13 @@
     "klasse": "2",
     "ticket_typ": "sparpreis"
   },
-  "reisedaten": {
-    "datum_von": "2026-06-24",
-    "datum_bis": "2026-07-22",
-    "bevorzugte_wochentage": [
-      "Sa",
-      "So"
-    ],
-    "abfahrt_fruehestens": "06:00",
-    "abfahrt_spaetestens": "22:00",
-    "max_umstiege": 1
-  },
   "benachrichtigung": {
     "email": "evelinastavila2004@gmail.com",
     "frequenz": "woechentlich_mo",
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-24T23:15:06.992Z",
-    "version": "1.0"
+    "aktualisiert_am": "2026-06-24T23:31:41.308Z",
+    "version": "2.0"
   }
 }
