@@ -1,16 +1,16 @@
 {
   "verbindungen": [
     {
-      "von": "stuttgart",
-      "nach": "hamburg",
+      "von": "reutlingen",
+      "nach": "stuttgart",
       "abfahrt_fruehestens": "06:00",
       "abfahrt_spaetestens": "22:00",
       "max_umstiege": 1,
-      "such_url": "https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=stuttgart&zo=hamburg&hd=2026-07-20T06:00:00"
+      "such_url": "https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=reutlingen&zo=stuttgart&hd=2026-07-20T06:00:00"
     }
   ],
   "preiseinstellungen": {
-    "max_preis_euro": 70,
+    "max_preis_euro": 10,
     "klasse": "2",
     "ticket_typ": "sparpreis"
   },
@@ -24,7 +24,7 @@
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-25T01:14:32.007Z",
+    "aktualisiert_am": "2026-06-25T01:26:50.735Z",
     "version": "4.0"
   }
 }
