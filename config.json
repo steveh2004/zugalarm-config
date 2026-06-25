@@ -10,7 +10,7 @@
     }
   ],
   "preiseinstellungen": {
-    "max_preis_euro": 75,
+    "max_preis_euro": 70,
     "klasse": "2",
     "ticket_typ": "sparpreis"
   },
@@ -24,7 +24,7 @@
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-25T00:37:59.369Z",
+    "aktualisiert_am": "2026-06-25T01:14:32.007Z",
     "version": "4.0"
   }
 }
