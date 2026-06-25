@@ -1,22 +1,22 @@
 {
   "verbindungen": [
     {
-      "von": "Stuttgart",
-      "nach": "Hamburg",
+      "von": "stuttgart",
+      "nach": "hamburg",
       "abfahrt_fruehestens": "06:00",
       "abfahrt_spaetestens": "22:00",
       "max_umstiege": 1,
-      "such_url": "https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=Stuttgart&zo=Hamburg&hd=2026-06-26T06:00:00"
+      "such_url": "https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=stuttgart&zo=hamburg&hd=2026-07-20T06:00:00"
     }
   ],
   "preiseinstellungen": {
-    "max_preis_euro": 145,
+    "max_preis_euro": 95,
     "klasse": "2",
     "ticket_typ": "sparpreis"
   },
   "reisedaten": {
-    "datum_von": "2026-06-26",
-    "datum_bis": "2026-07-22"
+    "datum_von": "2026-07-20",
+    "datum_bis": "2026-07-25"
   },
   "benachrichtigung": {
     "email": "evelinastavila2004@gmail.com",
@@ -24,7 +24,7 @@
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-25T00:19:08.458Z",
+    "aktualisiert_am": "2026-06-25T00:24:34.618Z",
     "version": "4.0"
   }
 }
