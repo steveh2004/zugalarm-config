@@ -5,7 +5,8 @@
       "nach": "Hamburg",
       "abfahrt_fruehestens": "06:00",
       "abfahrt_spaetestens": "22:00",
-      "max_umstiege": 1
+      "max_umstiege": 1,
+      "such_url": "https://www.bahn.de/buchung/fahrplan/suche#sts=true&so=Stuttgart&zo=Hamburg&hd=2026-06-26T06:00:00"
     }
   ],
   "preiseinstellungen": {
@@ -23,7 +24,7 @@
     "nur_wenn_guenstiger": true
   },
   "meta": {
-    "aktualisiert_am": "2026-06-24T23:49:49.330Z",
-    "version": "3.0"
+    "aktualisiert_am": "2026-06-25T00:08:47.978Z",
+    "version": "4.0"
   }
 }
